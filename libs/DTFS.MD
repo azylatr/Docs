@@ -264,7 +264,7 @@ flowchart TD
 
 It is equipped with diagrams for architectural inspiration that can be studied further for the data flow of the DTFS distributed system.
 
-<img src="/src/.md/mermaid_chart_1785825126527.png" alt="chart" />
+<img src="https://raw.githubusercontent.com/azylatr/Docs/refs/heads/main/assets/mermaid_chart_1785825126527.png" alt="chart" />
 
 ---
 
