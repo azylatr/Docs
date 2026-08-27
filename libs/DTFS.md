@@ -983,7 +983,7 @@ Although its architecture was inspired by ideas from projects such as LMDB and T
 
 # Credit 
 
-We, as the INCE team, would like to thank <a href="https://x.com/Arif_ajhhh">`SATRIA ARIF`</a> for supporting INCE. Shoutout to <a href="https://x.com/jorandirkgreef">`Joran Dirk Greef`</a> and <a href="https://x.com/kriszyp">`Kris Zyp`</a> for the architectural inspiration!.
+We, as the SeyLinxi team, would like to thank <a href="https://x.com/Arif_ajhhh">`SATRIA ARIF`</a> for supporting SeyLinxi. Shoutout to <a href="https://x.com/jorandirkgreef">`Joran Dirk Greef`</a> and <a href="https://x.com/kriszyp">`Kris Zyp`</a> for the architectural inspiration!.
 
 ---
 
