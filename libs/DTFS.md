@@ -623,6 +623,31 @@ let res = client.delete("http://localhost:1895/v2/cloud/logs/old_folder")
     .await?;
 ```
 
+### Example with a more stable (Zig) 
+```
+const std = @import("std");
+
+pub fn main() !void {
+    var client = std.http.Client{ .allocator = std.heap.page_allocator };
+    defer client.deinit();
+
+    var response = std.ArrayList(u8).init(std.heap.page_allocator);
+    defer response.deinit();
+
+    var req = try client.open(.DELETE, try std.Uri.parse(
+        "http://localhost:1895/v2/cloud/logs/old_folder",
+    ), .{
+        .server_header_buffer = &[_]u8{0} ** 8192,
+    });
+    defer req.deinit();
+
+    try req.send();
+    try req.wait();
+
+    std.debug.print("HTTP status: {}\n", .{req.response.status});
+}
+```
+
 ### Response (200 OK)
 ```json
 {
