@@ -624,7 +624,7 @@ let res = client.delete("http://localhost:1895/v2/cloud/logs/old_folder")
 ```
 
 ### Example with a more stable (Zig) 
-```
+```zig
 const std = @import("std");
 
 pub fn main() !void {
