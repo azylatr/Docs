@@ -1,12 +1,12 @@
-# SeyLinxi Security & Asset Protection Policy
+# Security & Asset Protection Policy
 
 **Version 1.0**  
 **Effective: 28 August 2026**
 
-SeyLinxi is committed to protecting its users, contributors, source code,
+HFLQ (Heterogeneous Fabric for Distributed Logic & Queries) is committed to protecting its users, contributors, source code,
 infrastructure, intellectual property, and project ecosystem.
 
-This policy establishes a security baseline for SeyLinxi projects and defines
+This policy establishes a security baseline for HFLQ projects and defines
 how security issues, protected assets, credentials, vulnerabilities, and
 responsible disclosure should be handled.
 
@@ -14,7 +14,7 @@ responsible disclosure should be handled.
 
 The goals of this policy are to:
 
-1. protect SeyLinxi infrastructure and project assets;
+1. protect HFLQ infrastructure and project assets;
 2. reduce the risk of unauthorized access, data loss, and supply-chain
    compromise;
 3. provide a clear process for responsible security research;
@@ -53,7 +53,7 @@ Unauthorized access to any protected asset is prohibited.
 
 ## 3. Security Principles
 
-SeyLinxi's security approach is based on the following principles:
+HFLQ security approach is based on the following principles:
 
 ### Least privilege
 
@@ -85,7 +85,7 @@ early disclosure could put users or infrastructure at risk.
 
 ## 4. Credential and Secret Handling
 
-SeyLinxi contributors and maintainers should:
+HFLQ contributors and maintainers should:
 
 - use unique credentials;
 - enable multi-factor authentication where available;
@@ -121,7 +121,7 @@ dependencies.
 
 ## 6. Build and Supply-Chain Security
 
-SeyLinxi projects may depend on third-party packages, registries, build tools,
+HFLQ projects may depend on third-party packages, registries, build tools,
 container images, operating-system packages, or external services.
 
 Project maintainers should evaluate material supply-chain risks and should
@@ -133,7 +133,7 @@ release artifacts should be treated as security events.
 
 ## 7. Vulnerability Reporting
 
-If you discover a security vulnerability affecting a SeyLinxi project,
+If you discover a security vulnerability affecting a HFLQ project,
 report it privately through the official security contact.
 
 A useful report should include, where available:
@@ -176,17 +176,17 @@ Researchers should not:
 - disclose credentials or private information publicly.
 
 This policy does not authorize testing against third-party systems merely
-because they interact with SeyLinxi software.
+because they interact with HFLQ software.
 
 ## 9. Coordinated Disclosure
 
-SeyLinxi may coordinate disclosure with researchers, maintainers, affected
+HFLQ may coordinate disclosure with researchers, maintainers, affected
 vendors, and downstream users.
 
 A disclosure timeline depends on severity, exploitability, affected users,
 availability of a fix, and the practical risk of continued secrecy.
 
-SeyLinxi may request that sensitive technical details remain private until
+HFLQ may request that sensitive technical details remain private until
 reasonable remediation has occurred.
 
 Researchers remain responsible for complying with applicable law and for
@@ -233,7 +233,7 @@ information.
 Logs and diagnostic artifacts should be handled carefully. Access should be
 limited to people who need the information for investigation or remediation.
 
-SeyLinxi does not authorize contributors to collect personal data merely to
+HFLQ does not authorize contributors to collect personal data merely to
 debug a vulnerability.
 
 ## 13. Release and Signing Security
@@ -284,7 +284,7 @@ security rules and intellectual-property rights.
 
 ## 16. Asset Ownership and Access
 
-Access to a SeyLinxi repository, organization, domain, server, cloud account,
+Access to a HFLQ repository, organization, domain, server, cloud account,
 or project does not by itself grant ownership of that asset.
 
 Contributors and maintainers receive only the authority necessary for their
@@ -306,7 +306,7 @@ access, theft, destruction, extortion, fraud, or other unlawful conduct.
 
 ## 18. Third-Party Vulnerabilities
 
-If a SeyLinxi project depends on a third-party component with a known
+If a HFLQ project depends on a third-party component with a known
 vulnerability, maintainers may:
 
 - upgrade or replace the component;
@@ -317,7 +317,7 @@ vulnerability, maintainers may:
 
 ## 19. Security Advisories
 
-When a vulnerability materially affects users, SeyLinxi may publish a
+When a vulnerability materially affects users, HFLQ may publish a
 security advisory containing appropriate information such as:
 
 - affected versions;
@@ -333,7 +333,7 @@ unnecessary risk.
 
 ## 20. Policy Changes
 
-This policy may be updated as the SeyLinxi ecosystem grows.
+This policy may be updated as the HFLQ ecosystem grows.
 
 Project-specific security policies may impose stronger requirements.
 
@@ -342,7 +342,7 @@ for that project to the extent of any conflict.
 
 ## 21. Contact
 
-Security reports should be submitted through the official SeyLinxi security
+Security reports should be submitted through the official HFLQ security
 channel.
 
 Do not publish active vulnerability details, credentials, private keys, or
@@ -353,7 +353,7 @@ private user information in public issue trackers.
 ## Security Disclaimer
 
 This policy describes security expectations and a responsible-disclosure
-framework. It does not guarantee that every SeyLinxi system is secure or that
+framework. It does not guarantee that every HFLQ system is secure or that
 every vulnerability will be prevented or resolved within a particular period.
 
 For production deployments, users should maintain their own security controls,
