@@ -1,2 +1,2 @@
 # Docs
-A distributed collection of MD documentation for INCE mass learning materials lab. 
+A distributed collection of MD documentation for HFLQ mass learning materials lab. 
