@@ -1,6 +1,6 @@
 # Security & Asset Protection Policy
 
-**Version 1.0**  
+**Version 1.1**  
 **Effective: 28 August 2026**
 
 HFLQ (Heterogeneous Fabric for Distributed Logic & Queries) is committed to protecting its users, contributors, source code,
