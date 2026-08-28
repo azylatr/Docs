@@ -3,7 +3,7 @@
 **Version 2.1**  
 **Effective: 28 August 2026**
 
-Copyright © 2022–Present HFLQ and respective copyright holders.
+Copyright © 2022 - Present HFLQ (Heterogeneous Fabric for Distributed Logic & Queries) and respective copyright holders.
 
 These Terms of Use establish the rules for using HFLQ software,
 documentation, websites, repositories, APIs, community spaces, and related
@@ -251,9 +251,9 @@ This section does not create obligations that cannot legally be imposed.
 
 Using, contributing to, forking, or discussing a HFLQ project does not
 make a person an employee, officer, representative, partner, agent, or
-authorized spokesperson of SeyLinxi.
+authorized spokesperson of HFLQ.
 
-Only an expressly authorized person may speak on behalf of SeyLinxi.
+Only an expressly authorized person may speak on behalf of HFLQ.
 
 ## 18. Severability and Waiver
 
