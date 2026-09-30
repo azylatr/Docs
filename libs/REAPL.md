@@ -1,4 +1,4 @@
-Reapl LLM
+# Reapl LLM
 
 Your models. Your keys. Your conversation.
 
@@ -18,7 +18,7 @@ New models appear, providers change, pricing changes, capabilities change, and e
 
 Reapl started with a simple question:
 
-«Why should using multiple models always depend on a single platform?»
+Why should using multiple models always depend on a single platform?
 
 That question became the foundation of Reapl's BYOK approach.
 
@@ -150,8 +150,8 @@ It does not need to decide which model everyone should use.
 
 Instead, Reapl focuses on building the experience around them.
 
-«The models belong to the ecosystem.
-The choice belongs to the user.»
+The models belong to the ecosystem.
+The choice belongs to the user.
 
 ---
 
