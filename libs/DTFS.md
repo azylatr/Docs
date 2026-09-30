@@ -1024,4 +1024,4 @@ We, as the NSEY team, would like to thank <a href="https://x.com/Arif_ajhhh">`SA
 
 <br/>
 
-If you discover a security vulnerability in DTFS, please send the details to `vueesy@gmail.com`.
+If you discover a security vulnerability in DTFS, please send the details to `company.0res@gmail.com`.
