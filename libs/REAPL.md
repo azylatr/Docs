@@ -10,7 +10,7 @@ Instead, Reapl is designed as a place where users can bring their own providers 
 
 ---
 
-The Idea
+### The Idea
 
 AI is moving incredibly fast.
 
@@ -32,7 +32,7 @@ It simply becomes the place where everything comes together.
 
 ---
 
-BYOK
+### BYOK
 
 Bring Your Own Key.
 
@@ -46,7 +46,7 @@ It is about creating a workspace for multiple models.
 
 ---
 
-Multi-LLM
+### Multi-LLM
 
 One conversation does not always need the same model.
 
@@ -66,7 +66,7 @@ choose the model that fits the task.
 
 ---
 
-A Different Kind of AI App
+### A Different Kind of AI App
 
 Reapl was not designed to become another dashboard filled with hundreds of features.
 
@@ -86,7 +86,7 @@ And an experience that does not make users feel like they are operating an unnec
 
 ---
 
-The Reapl Philosophy
+### The Reapl Philosophy
 
 Reapl is built around a few principles.
 
@@ -116,7 +116,7 @@ Reapl is designed with that reality in mind.
 
 ---
 
-Reapl LLM
+### Reapl LLM
 
 Reapl is not a single model.
 
@@ -138,7 +138,7 @@ Without making every provider feel like an entirely separate experience.
 
 ---
 
-Built Around BYOK
+### Built Around BYOK
 
 With BYOK, users maintain a direct relationship with the providers they choose.
 
@@ -155,7 +155,7 @@ The choice belongs to the user.
 
 ---
 
-More Than a Chat UI
+### More Than a Chat UI
 
 Reapl started as an interface experiment and gradually became a project exploring how a multi-LLM experience could work.
 
@@ -167,9 +167,9 @@ The goal is to find an interface that feels natural when working with multiple m
 
 ---
 
-The Project
+### The Project
 
-Reapl is part of the INCE ecosystem.
+Reapl is part of the NSEY ecosystem.
 
 The project has evolved through experiments in AI interfaces, web technology, multi-LLM workflows, and user experience.
 
@@ -183,7 +183,7 @@ Reapl is an evolving experiment.
 
 ---
 
-What Reapl Is Trying to Build
+### What Reapl Is Trying to Build
 
 Not an AI that takes control of everything.
 
@@ -197,7 +197,7 @@ and how they want to work with AI.
 
 ---
 
-Reapl LLM
+### Reapl LLM
 
 Multi-LLM.
 BYOK.
@@ -208,4 +208,4 @@ Designed as a platform.
 
 ---
 
-Bring your own intelligence.
+☺️ Bring your own intelligence.
