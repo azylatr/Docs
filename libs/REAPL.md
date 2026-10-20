@@ -206,6 +206,7 @@ User controlled.
 Built as an experiment.
 Designed as a platform.
 
----
+<br />
+<br />
 
-☺️ Bring your own intelligence.
+Bring your own intelligence.
