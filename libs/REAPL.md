@@ -1,4 +1,4 @@
-# Reapl LLM
+# Reapl BYOK
 
 Your models. Your keys. Your conversation.
 
