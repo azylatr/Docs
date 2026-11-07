@@ -1,4 +1,4 @@
-# Reapl introduction
+# Reapl Introduction
 
 Your models. Your keys. Your conversation.
 
