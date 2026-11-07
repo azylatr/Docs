@@ -1,8 +1,8 @@
-# Reapl Summary
+# Reapl Executive
 
 **A flexible AI chat workspace built around provider choice, practical tools, and a focused conversation experience.**
 
-Reapl is an early-stage, browser-based AI chat product developed by Reapl. It gives individuals a single workspace for conversations with compatible AI providers, with controls for model selection, generation behavior, conversation history, and appearance.
+Reapl is an early-stage, browser-based AI chat product owned by NSEY. It gives individuals a single workspace for conversations with compatible AI providers, with controls for model selection, generation behavior, conversation history, and appearance.
 
 This document describes the product as implemented in the current client application. It is intended for prospective users, partners, and investors. It does not disclose private source code, deployment configuration, credentials, or internal network details.
 
@@ -303,7 +303,7 @@ You agree NOT to:
 
 #### 7. INTELLECTUAL PROPERTY
 
-All rights, title, and interest in REAPL (including software, branding, design, and infrastructure) remain the exclusive property of REAPL. No rights are granted except as expressly stated.
+All rights, title, and interest in REAPL (including software, branding, design, and infrastructure) belong to NSEY. No rights are granted except as expressly stated.
 
 #### 8. SERVICE MODIFICATIONS
 
@@ -398,4 +398,4 @@ For general inquiries, privacy requests, or abuse reports, contact **company.0re
 
 ---
 
-Reapl is a proprietary product in active development. Product details in this document reflect the current client implementation and may change as the service evolves.
+Reapl is a product owned by NSEY and is in active development. Product details in this document reflect the current client implementation and may change as the service evolves.
