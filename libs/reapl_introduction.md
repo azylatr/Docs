@@ -1,4 +1,4 @@
-# Reapl BYOK
+# Reapl introduction
 
 Your models. Your keys. Your conversation.
 
