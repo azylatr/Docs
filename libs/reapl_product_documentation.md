@@ -1,4 +1,4 @@
-# Reapl
+# Reapl Summary
 
 **A flexible AI chat workspace built around provider choice, practical tools, and a focused conversation experience.**
 
